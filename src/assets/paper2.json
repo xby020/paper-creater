@@ -1,0 +1,4034 @@
+{
+  "paperCode": "AGKQLXC3",
+  "name": "安管人员考试考核-C3",
+  "paperAreaList": [
+    {
+      "paperAreaSequence": 1,
+      "id": 731864,
+      "questionList": [
+        {
+          "answerId": "58706687",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": false,
+          "answerName": "C",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927073,
+              "id": 58706687,
+              "content": "10mm"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927073,
+              "id": 58706688,
+              "content": "7mm"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927073,
+              "id": 58706689,
+              "content": "5mm"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927073,
+              "id": 58706690,
+              "content": "3mm"
+            }
+          ],
+          "questionSequence": 756,
+          "id": 14927073,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "作业中，当桩锤冲击能量达到最大能量时，其最后10锤的贯入值不得小于（ ）。"
+        },
+        {
+          "answerId": "58706692",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "B",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927074,
+              "id": 58706691,
+              "content": "0.5"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927074,
+              "id": 58706692,
+              "content": "1"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927074,
+              "id": 58706693,
+              "content": "1.5"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927074,
+              "id": 58706694,
+              "content": "2"
+            }
+          ],
+          "questionSequence": 1191,
+          "id": 14927074,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "人工挖孔桩，挖出的土石方应及时运离孔口，不得堆放在孔口四周（）m范围内。"
+        },
+        {
+          "answerId": "58706697",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "C",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927075,
+              "id": 58706695,
+              "content": "500"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927075,
+              "id": 58706696,
+              "content": "680"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927075,
+              "id": 58706697,
+              "content": "700"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927075,
+              "id": 58706698,
+              "content": "750"
+            }
+          ],
+          "questionSequence": 1002,
+          "id": 14927075,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "模板支架安全检查评定要求，支架采用对接连接，立杆伸出顶层水平杆中心线至支撑点的长度，碗扣式支架不应大于（）mm。"
+        },
+        {
+          "answerId": "58706701",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "C",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927076,
+              "id": 58706699,
+              "content": "0.6"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927076,
+              "id": 58706700,
+              "content": "1"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927076,
+              "id": 58706701,
+              "content": "1.5"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927076,
+              "id": 58706702,
+              "content": "2"
+            }
+          ],
+          "questionSequence": 1039,
+          "id": 14927076,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "在建工程的防火要求，设置在地面上的临时疏散通道，其净宽度不应小于（）m。"
+        },
+        {
+          "answerId": "58706705",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "C",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927077,
+              "id": 58706703,
+              "content": "8"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927077,
+              "id": 58706704,
+              "content": "10"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927077,
+              "id": 58706705,
+              "content": "15"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927077,
+              "id": 58706706,
+              "content": "20"
+            }
+          ],
+          "questionSequence": 427,
+          "id": 14927077,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "储存间与明火或散发火花地点的距离，不得小于（）m。"
+        },
+        {
+          "answerId": "58706708",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "B",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927078,
+              "id": 58706707,
+              "content": "1.2"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927078,
+              "id": 58706708,
+              "content": "1.5"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927078,
+              "id": 58706709,
+              "content": "1.8"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927078,
+              "id": 58706710,
+              "content": "、2"
+            }
+          ],
+          "questionSequence": 968,
+          "id": 14927078,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "吊篮的手动滑降装置应灵敏可靠，下降速度不应大于（）倍的额定速度。"
+        },
+        {
+          "answerId": "58706713",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "C",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927079,
+              "id": 58706711,
+              "content": "200"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927079,
+              "id": 58706712,
+              "content": "250"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927079,
+              "id": 58706713,
+              "content": "300"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927079,
+              "id": 58706714,
+              "content": "350"
+            }
+          ],
+          "questionSequence": 1141,
+          "id": 14927079,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "起重量在（）kN及以上的起重设备安装工程为超过一定规模的危险性较大的分部分项工程。"
+        },
+        {
+          "answerId": "58706718",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "D",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927080,
+              "id": 58706715,
+              "content": "冬季"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927080,
+              "id": 58706716,
+              "content": "春季"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927080,
+              "id": 58706717,
+              "content": "季风"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927080,
+              "id": 58706718,
+              "content": "雨季"
+            }
+          ],
+          "questionSequence": 364,
+          "id": 14927080,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "在滑坡地段挖土方时，不宜在（）季节施工。"
+        },
+        {
+          "answerId": "58706720",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "B",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927081,
+              "id": 58706719,
+              "content": "作业指导书"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927081,
+              "id": 58706720,
+              "content": "施工组织设计"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927081,
+              "id": 58706721,
+              "content": "安全技术交底"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927081,
+              "id": 58706722,
+              "content": "班组交底"
+            }
+          ],
+          "questionSequence": 1173,
+          "id": 14927081,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "高处作业的操作平台应由专业技术人员按现行的相应规范进行设计，计算书及图纸应编入（ ）。"
+        },
+        {
+          "answerId": "58706723",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "A",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927082,
+              "id": 58706723,
+              "content": "国家局、省级安全生产监督管理部门"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927082,
+              "id": 58706724,
+              "content": "县级安全生产监督管理部"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927082,
+              "id": 58706725,
+              "content": "省级人民政府"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927082,
+              "id": 58706726,
+              "content": "县级人民政府"
+            }
+          ],
+          "questionSequence": 1190,
+          "id": 14927082,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "安全培训应当按照（ ）统一制定的安全培训大纲进行。"
+        },
+        {
+          "answerId": "58706728",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "B",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927083,
+              "id": 58706727,
+              "content": "具有专业资质的监察机构"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927083,
+              "id": 58706728,
+              "content": "具有专业资质的检验检测机构"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927083,
+              "id": 58706729,
+              "content": "具有资质的检验检测机构"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927083,
+              "id": 58706730,
+              "content": "具有资质的检查机构"
+            }
+          ],
+          "questionSequence": 785,
+          "id": 14927083,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "施工起重机械使用达到国家规定的检验检测期限的，必须经( )检测。经检测不合格的，不得继续使用。"
+        },
+        {
+          "answerId": "58706734",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "D",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927084,
+              "id": 58706731,
+              "content": "150"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927084,
+              "id": 58706732,
+              "content": "180"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927084,
+              "id": 58706733,
+              "content": "200"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927084,
+              "id": 58706734,
+              "content": "300"
+            }
+          ],
+          "questionSequence": 961,
+          "id": 14927084,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "其他砌体的门窗洞口两侧（）mm和转角处600mm范围内，是不应设置扣件式钢管单排脚手架的横向水平杆的。"
+        },
+        {
+          "answerId": "58706736",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "B",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927085,
+              "id": 58706735,
+              "content": "0.35"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927085,
+              "id": 58706736,
+              "content": "0.45"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927085,
+              "id": 58706737,
+              "content": "0.75"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927085,
+              "id": 58706738,
+              "content": "0.95"
+            }
+          ],
+          "questionSequence": 1011,
+          "id": 14927085,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "钢面板及其支架的荷载设计值可乘以系数（ ）。"
+        },
+        {
+          "answerId": "58706742",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "D",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927086,
+              "id": 58706739,
+              "content": "工具设备是否存在不安全因素"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927086,
+              "id": 58706740,
+              "content": "现场环境是否存在不安全因素"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927086,
+              "id": 58706741,
+              "content": "是否正确穿戴个人防护用品"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927086,
+              "id": 58706742,
+              "content": "施工方案是否完善"
+            }
+          ],
+          "questionSequence": 1201,
+          "id": 14927086,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "下列哪个选项不是作业人员作业前应检查的内容（ ）。"
+        },
+        {
+          "answerId": "58706746",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "D",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927087,
+              "id": 58706743,
+              "content": "计划"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927087,
+              "id": 58706744,
+              "content": "实施"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927087,
+              "id": 58706745,
+              "content": "检查"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927087,
+              "id": 58706746,
+              "content": "处理"
+            }
+          ],
+          "questionSequence": 1231,
+          "id": 14927087,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "利用PDCA循环系统建立事故的预测信息系统，其中A表示（ ）。"
+        },
+        {
+          "answerId": "58706747",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "A",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927088,
+              "id": 58706747,
+              "content": "行业标准　"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927088,
+              "id": 58706748,
+              "content": "地方标准"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927088,
+              "id": 58706749,
+              "content": "企业标准"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927088,
+              "id": 58706750,
+              "content": "协会标准"
+            }
+          ],
+          "questionSequence": 1851,
+          "id": 14927088,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "安全设备的设计、制造、安装、使用、检测、维修、改造和报废，应当符合国家标准或者（    ）。"
+        },
+        {
+          "answerId": "58706753",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "C",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927089,
+              "id": 58706751,
+              "content": "80"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927089,
+              "id": 58706752,
+              "content": "85"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927089,
+              "id": 58706753,
+              "content": "90"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927089,
+              "id": 58706754,
+              "content": "95"
+            }
+          ],
+          "questionSequence": 621,
+          "id": 14927089,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "施工升降机安全装置的安全检查评定要求，超载保护装置应在荷载达到额定载重量的（）时，发出明确报警信号。"
+        },
+        {
+          "answerId": "58706757",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "C",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927090,
+              "id": 58706755,
+              "content": "5"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927090,
+              "id": 58706756,
+              "content": "6"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927090,
+              "id": 58706757,
+              "content": "7"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927090,
+              "id": 58706758,
+              "content": "8"
+            }
+          ],
+          "questionSequence": 55,
+          "id": 14927090,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "附着式升降脚手架的安全检查评定要求，架体安装检查时，直线布置的架体支承跨度不应大于（）m。"
+        },
+        {
+          "answerId": "58706760",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "B",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927091,
+              "id": 58706759,
+              "content": "200"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927091,
+              "id": 58706760,
+              "content": "300"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927091,
+              "id": 58706761,
+              "content": "350"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927091,
+              "id": 58706762,
+              "content": "400"
+            }
+          ],
+          "questionSequence": 3399,
+          "id": 14927091,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "起重量（ ）kN及以上的起重设备安装工程属于超过一定规模的危险性较大的分部分项工程范围。"
+        },
+        {
+          "answerId": "58706763",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "A",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927092,
+              "id": 58706763,
+              "content": "承重架（结构施工架）3KN/m2、装修架2KN/m2"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927092,
+              "id": 58706764,
+              "content": "承重架2.7/m2、装修架2.5KN/m2"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927092,
+              "id": 58706765,
+              "content": "承重架2KN/m2、装修架1KN/m2"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927092,
+              "id": 58706766,
+              "content": "承重架5KN/m2、装修架4KN/m2"
+            }
+          ],
+          "questionSequence": 2423,
+          "id": 14927092,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "脚手架施工荷载按均布荷载计算取值共分为：（   ）。"
+        },
+        {
+          "answerId": "58706770",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "D",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927093,
+              "id": 58706767,
+              "content": "安全管理水平"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927093,
+              "id": 58706768,
+              "content": "安全生产意识和安全管理水平"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927093,
+              "id": 58706769,
+              "content": "操作能力"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927093,
+              "id": 58706770,
+              "content": "遵章守纪自我保护和提高防范事故的能力"
+            }
+          ],
+          "questionSequence": 136,
+          "id": 14927093,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "安全教育和培训按等级、层次和工作性质分别进行，操作者的重点是（ ）。"
+        },
+        {
+          "answerId": "58706773",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "C",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927094,
+              "id": 58706771,
+              "content": "二层"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927094,
+              "id": 58706772,
+              "content": "三层"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927094,
+              "id": 58706773,
+              "content": "多层　"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927094,
+              "id": 58706774,
+              "content": "不超过二层"
+            }
+          ],
+          "questionSequence": 786,
+          "id": 14927094,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "为了提高桩的稳定性，可以采用在坑内加设支撑的方法，坑内支撑可采用单层平面或（   ）支撑。"
+        },
+        {
+          "answerId": "58706778",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "D",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927095,
+              "id": 58706775,
+              "content": "30"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927095,
+              "id": 58706776,
+              "content": "35"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927095,
+              "id": 58706777,
+              "content": "40"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927095,
+              "id": 58706778,
+              "content": "50"
+            }
+          ],
+          "questionSequence": 2237,
+          "id": 14927095,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "施工高度（）m及以上的建筑幕墙安装工程为超过一定规模的危险性较大的分部分项工程。"
+        },
+        {
+          "answerId": "58706782",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "D",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927096,
+              "id": 58706779,
+              "content": "0.4"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927096,
+              "id": 58706780,
+              "content": "0.2"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927096,
+              "id": 58706781,
+              "content": "0.8"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927096,
+              "id": 58706782,
+              "content": "0.7"
+            }
+          ],
+          "questionSequence": 1230,
+          "id": 14927096,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "电缆在室外埋设深度不小于（   ）m。"
+        },
+        {
+          "answerId": "58706786",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "D",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927097,
+              "id": 58706783,
+              "content": "事故责任在于设备，与施工员无关"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927097,
+              "id": 58706784,
+              "content": "可以安排未经培训的抹灰工操作吊篮的升降"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927097,
+              "id": 58706785,
+              "content": "施工现场的工作布置由施上员安排，没有违章指挥"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927097,
+              "id": 58706786,
+              "content": "抹灰工对于施工员的违章指挥可以拒绝接受"
+            }
+          ],
+          "questionSequence": 1554,
+          "id": 14927097,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "某公司在一工地用吊篮进行外装修作业时，施工员指派名抹灰工升吊篮，由于吊篮未挂保险钢丝绳，在上升时突然一个倒链急剧下滑，吊篮随即倾斜，由于一作业人员未系安全带，从吊篮坠落死亡。下列关于施工员布置这项工作的说法正确的是（ ）。"
+        },
+        {
+          "answerId": "58706790",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "D",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927098,
+              "id": 58706787,
+              "content": "单位主要负责人"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927098,
+              "id": 58706788,
+              "content": "安全管理人员和从业人员"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927098,
+              "id": 58706789,
+              "content": "特种作业人员"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927098,
+              "id": 58706790,
+              "content": "以上都包括"
+            }
+          ],
+          "questionSequence": 155,
+          "id": 14927098,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "必须要进行安全培训的人员是（）。"
+        },
+        {
+          "answerId": "58706793",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "C",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927099,
+              "id": 58706791,
+              "content": "随便放置"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927099,
+              "id": 58706792,
+              "content": "放在就近的可靠地方"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927099,
+              "id": 58706793,
+              "content": "放入工具袋"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927099,
+              "id": 58706794,
+              "content": "系在身上"
+            }
+          ],
+          "questionSequence": 2149,
+          "id": 14927099,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "高处作业时，工具应随手（   ）。"
+        },
+        {
+          "answerId": "58706796",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "B",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927100,
+              "id": 58706795,
+              "content": "55N·m"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927100,
+              "id": 58706796,
+              "content": "65 N·m　"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927100,
+              "id": 58706797,
+              "content": "75 N·m"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927100,
+              "id": 58706798,
+              "content": "85 N·m"
+            }
+          ],
+          "questionSequence": 977,
+          "id": 14927100,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "脚手架采用的扣件，在螺栓拧紧扭力矩达（   ）时，不得发生破坏。"
+        },
+        {
+          "answerId": "58706801",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "C",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927101,
+              "id": 58706799,
+              "content": "立即自救"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927101,
+              "id": 58706800,
+              "content": "立即上报"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927101,
+              "id": 58706801,
+              "content": "立即停止作业"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927101,
+              "id": 58706802,
+              "content": "立即下达停工令"
+            }
+          ],
+          "questionSequence": 1394,
+          "id": 14927101,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "根据《建筑工程安全生产管理条例》，在施工过程中发生危机及人身安全的紧急情况时，作业人员在采取必要应急措施后撤离危险区域或（ ）。"
+        },
+        {
+          "answerId": "58706804",
+          "questionContentType": "文字题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "B",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927102,
+              "id": 58706803,
+              "content": "5﹪"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927102,
+              "id": 58706804,
+              "content": "10﹪"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927102,
+              "id": 58706805,
+              "content": "15﹪"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927102,
+              "id": 58706806,
+              "content": "20﹪"
+            }
+          ],
+          "questionSequence": 1331,
+          "id": 14927102,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "泥浆泵运转中，应经常测试泥浆含砂量，泥浆含砂量不得超过（）。"
+        }
+      ],
+      "paperId": 223817,
+      "paperAreaName": "第一部分、文字单选题"
+    },
+    {
+      "paperAreaSequence": 2,
+      "id": 731865,
+      "questionList": [
+        {
+          "answerId": "58706807,58706808,58706809,58706811,",
+          "questionContentType": "文字题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,B,C,E,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927103,
+              "id": 58706807,
+              "content": "碱金属"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927103,
+              "id": 58706808,
+              "content": "熔化的钢水"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927103,
+              "id": 58706809,
+              "content": "硫酸"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927103,
+              "id": 58706810,
+              "content": "油毡"
+            },
+            {
+              "sequence": 5,
+              "isRight": true,
+              "questionId": 14927103,
+              "id": 58706811,
+              "content": "高压电气装置"
+            }
+          ],
+          "questionSequence": 1288,
+          "id": 14927103,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "下列（）火灾不能用水扑救。"
+        },
+        {
+          "answerId": "58706812,58706813,58706814,58706815,58706816,",
+          "questionContentType": "文字题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,B,C,D,E,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927104,
+              "id": 58706812,
+              "content": "烧毁"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927104,
+              "id": 58706813,
+              "content": "破折、水浸"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927104,
+              "id": 58706814,
+              "content": "烧损"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927104,
+              "id": 58706815,
+              "content": "烟熏"
+            },
+            {
+              "sequence": 5,
+              "isRight": true,
+              "questionId": 14927104,
+              "id": 58706816,
+              "content": "污染"
+            }
+          ],
+          "questionSequence": 1260,
+          "id": 14927104,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "火灾的直接损失是指（）所造成的损失"
+        },
+        {
+          "answerId": "58706817,58706818,58706819,58706820,",
+          "questionContentType": "文字题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,B,C,D,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927105,
+              "id": 58706817,
+              "content": "碗扣和扣件接头无松动"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927105,
+              "id": 58706818,
+              "content": "所有安全防护已齐备"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927105,
+              "id": 58706819,
+              "content": "其他必要的项目经检查符合要求"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927105,
+              "id": 58706820,
+              "content": "所有螺栓连接处以拧紧"
+            },
+            {
+              "sequence": 5,
+              "isRight": false,
+              "questionId": 14927105,
+              "id": 58706821,
+              "content": "各承力件预紧程度不一致"
+            }
+          ],
+          "questionSequence": 1271,
+          "id": 14927105,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "在附着式升降脚手架升降到位后，办理交付使用手续前，必须通过以下检查项目（）。"
+        },
+        {
+          "answerId": "58706824,58706826,",
+          "questionContentType": "文字题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "C,E,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927106,
+              "id": 58706822,
+              "content": "炭疽病"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927106,
+              "id": 58706823,
+              "content": "森林脑病"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927106,
+              "id": 58706824,
+              "content": "手臂振动病"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927106,
+              "id": 58706825,
+              "content": "低压病"
+            },
+            {
+              "sequence": 5,
+              "isRight": true,
+              "questionId": 14927106,
+              "id": 58706826,
+              "content": "中毒"
+            }
+          ],
+          "questionSequence": 1112,
+          "id": 14927106,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "在以下的职业病中，与建筑业有关的职业病有（ ）。"
+        },
+        {
+          "answerId": "58706827,58706828,58706829,58706830,",
+          "questionContentType": "文字题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,B,C,D,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927107,
+              "id": 58706827,
+              "content": "施工现场清运渣土的车辆应封闭或采用苫布覆盖"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927107,
+              "id": 58706828,
+              "content": "施工现场区域内地下的各类管线，施工单位应在地面上设置明显标志"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927107,
+              "id": 58706829,
+              "content": "应保证充足的消防水源，现场消火拴控制范围不宜小于50m"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927107,
+              "id": 58706830,
+              "content": "当遇有易燃、可燃物及保温材料时，严禁明火作业"
+            },
+            {
+              "sequence": 5,
+              "isRight": false,
+              "questionId": 14927107,
+              "id": 58706831,
+              "content": "施工现场应设置不小于3.5m宽的消防车道并保持畅通"
+            }
+          ],
+          "questionSequence": 1118,
+          "id": 14927107,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "列关于拆除工程文明施工的叙述（ ）是正确的。"
+        },
+        {
+          "answerId": "58706832,58706833,58706834,58706835,",
+          "questionContentType": "文字题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,B,C,D,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927108,
+              "id": 58706832,
+              "content": "各钢结构件无变形、焊缝无开裂、防锈良好"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927108,
+              "id": 58706833,
+              "content": "各电气组件灵活可靠"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927108,
+              "id": 58706834,
+              "content": "安全装置灵活可靠"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927108,
+              "id": 58706835,
+              "content": "高强螺栓无裂纹、丝口无损伤"
+            }
+          ],
+          "questionSequence": 852,
+          "id": 14927108,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "什么是施工升降机安全运行的前提（ ）。"
+        },
+        {
+          "answerId": "58706836,58706837,58706838,58706839,58706840,",
+          "questionContentType": "文字题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,B,C,D,E,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927109,
+              "id": 58706836,
+              "content": "防止气瓶受热"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927109,
+              "id": 58706837,
+              "content": "正确操作"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927109,
+              "id": 58706838,
+              "content": "气瓶使用到最后应留有余气，以防止混入其他气体或杂志而造成事故"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927109,
+              "id": 58706839,
+              "content": "加强气瓶的维护"
+            },
+            {
+              "sequence": 5,
+              "isRight": true,
+              "questionId": 14927109,
+              "id": 58706840,
+              "content": "气瓶使用单位不得自行改变充装气体的品种、擅自更换气瓶的颜色标志"
+            }
+          ],
+          "questionSequence": 1101,
+          "id": 14927109,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "下列有关于气瓶的安全使用中，（ ）说法是正确的"
+        },
+        {
+          "answerId": "58706841,58706842,58706843,58706844,",
+          "questionContentType": "文字题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,B,C,D,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927110,
+              "id": 58706841,
+              "content": "严禁在连接件和支撑上攀登上下"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927110,
+              "id": 58706842,
+              "content": "严禁在上下同一垂直面上装、拆模板"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927110,
+              "id": 58706843,
+              "content": "支设临空构筑物模板时，应搭设支架或脚手架"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927110,
+              "id": 58706844,
+              "content": "模板留有预留洞时，应在安装后将洞口覆盖"
+            },
+            {
+              "sequence": 5,
+              "isRight": false,
+              "questionId": 14927110,
+              "id": 58706845,
+              "content": "拆模的高处作业不必配置登高用具"
+            }
+          ],
+          "questionSequence": 1067,
+          "id": 14927110,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "进行模板支撑和拆卸时的悬空作业，下列哪些规定是正确的?( )"
+        },
+        {
+          "answerId": "58706846,58706848,58706849,",
+          "questionContentType": "文字题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,C,D,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927111,
+              "id": 58706846,
+              "content": "防护栏杆应由上、下两道横杆及栏杆柱组成"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927111,
+              "id": 58706847,
+              "content": "上杆离地高度为0.5～1.8m"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927111,
+              "id": 58706848,
+              "content": "下杆离地高度为0.5～0.6m"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927111,
+              "id": 58706849,
+              "content": "上杆离地高度为1.0～1.2m"
+            },
+            {
+              "sequence": 5,
+              "isRight": false,
+              "questionId": 14927111,
+              "id": 58706850,
+              "content": "下杆离地高度为0.6～0.8m"
+            }
+          ],
+          "questionSequence": 1085,
+          "id": 14927111,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "下列关于临边防护栏杆的规定，哪些是正确的？（ ）"
+        },
+        {
+          "answerId": "58706852,58706854,",
+          "questionContentType": "文字题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "B,D,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927112,
+              "id": 58706851,
+              "content": "环境温度为－20℃～＋50℃"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927112,
+              "id": 58706852,
+              "content": "导轨架顶部风速不大于20m/s"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927112,
+              "id": 58706853,
+              "content": "电源电压值与额定电压值偏差为±15％"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927112,
+              "id": 58706854,
+              "content": "供电总功率不小于产品使用说明书的规定值"
+            }
+          ],
+          "questionSequence": 877,
+          "id": 14927112,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "物料提升机在下列条件下应能正常作业( )"
+        },
+        {
+          "answerId": "58706855,58706856,",
+          "questionContentType": "文字题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,B,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927113,
+              "id": 58706855,
+              "content": "开放性创伤"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927113,
+              "id": 58706856,
+              "content": "闭合性创伤"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927113,
+              "id": 58706857,
+              "content": "流血"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927113,
+              "id": 58706858,
+              "content": "烧伤"
+            }
+          ],
+          "questionSequence": 2781,
+          "id": 14927113,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "创伤分为（）。"
+        },
+        {
+          "answerId": "58706860,58706862,",
+          "questionContentType": "文字题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "B,D,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927114,
+              "id": 58706859,
+              "content": "千斤顶使用时底部应用钢板垫平"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927114,
+              "id": 58706860,
+              "content": "提升高度不得超过螺纹杆螺纹扣或活塞总高度的3/4"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927114,
+              "id": 58706861,
+              "content": "千斤顶可用于有酸、碱的场所"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927114,
+              "id": 58706862,
+              "content": "数台千斤顶同时作业时，应采用同型号的千斤顶"
+            },
+            {
+              "sequence": 5,
+              "isRight": false,
+              "questionId": 14927114,
+              "id": 58706863,
+              "content": "顶升高度超过千斤顶的起升高度时，应分成若干次顶升"
+            }
+          ],
+          "questionSequence": 2733,
+          "id": 14927114,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "关于千斤顶的使用，以下叙述正确的是（）。"
+        },
+        {
+          "answerId": "58706867,58706868,",
+          "questionContentType": "文字题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "D,E,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927115,
+              "id": 58706864,
+              "content": "企业法定代表人"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927115,
+              "id": 58706865,
+              "content": "企业分管安全生产工作的副经理"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927115,
+              "id": 58706866,
+              "content": "经理"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927115,
+              "id": 58706867,
+              "content": "企业安全生产管理机构的负责人及其工作人员"
+            },
+            {
+              "sequence": 5,
+              "isRight": true,
+              "questionId": 14927115,
+              "id": 58706868,
+              "content": "施工现场专职安全生产管理人员"
+            }
+          ],
+          "questionSequence": 3683,
+          "id": 14927115,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "建筑施工企业专职安全生产管理人员，是指在企业专职从事安全生产管理工作的人员，包括(    )。"
+        },
+        {
+          "answerId": "58706869,58706871,58706872,",
+          "questionContentType": "文字题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,C,D,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927116,
+              "id": 58706869,
+              "content": "防护栏杆应由上、下两道横杆及栏杆柱组成"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927116,
+              "id": 58706870,
+              "content": "上杆离地高度为1.5～1.8m"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927116,
+              "id": 58706871,
+              "content": "下杆离地高度为0.5～0.6m"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927116,
+              "id": 58706872,
+              "content": "上杆离地高度为1.0～1.2m"
+            },
+            {
+              "sequence": 5,
+              "isRight": false,
+              "questionId": 14927116,
+              "id": 58706873,
+              "content": "下杆离地高度为0.6～0.8m"
+            }
+          ],
+          "questionSequence": 3290,
+          "id": 14927116,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "下列关于临边防护栏杆的规定（     ）是正确的。"
+        },
+        {
+          "answerId": "58706874,58706875,58706878,",
+          "questionContentType": "文字题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,B,E,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927117,
+              "id": 58706874,
+              "content": "起重量限制器"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927117,
+              "id": 58706875,
+              "content": "力矩限制器"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927117,
+              "id": 58706876,
+              "content": "风速仪"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927117,
+              "id": 58706877,
+              "content": "断错相保护器"
+            },
+            {
+              "sequence": 5,
+              "isRight": true,
+              "questionId": 14927117,
+              "id": 58706878,
+              "content": "超高限位器"
+            }
+          ],
+          "questionSequence": 3461,
+          "id": 14927117,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "塔式起重机的安全限位必须齐全，并按程序进行调试合格。其安全限位主要包括（   ）"
+        },
+        {
+          "answerId": "58706879,58706881,58706882,",
+          "questionContentType": "文字题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,C,D,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927118,
+              "id": 58706879,
+              "content": "缆风绳宜采用4～8 根"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927118,
+              "id": 58706880,
+              "content": "缆风绳与地面夹角应在45°～60°之间"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927118,
+              "id": 58706881,
+              "content": "缆风绳与桅杆和地锚的连接应牢固；如越过公路或街道时，架空高度不应小于7m"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927118,
+              "id": 58706882,
+              "content": "缆风绳的架设应避开加空线路，在靠近电线附近，应装有绝缘材料制作的护线架"
+            }
+          ],
+          "questionSequence": 2634,
+          "id": 14927118,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "以下关于缆风绳的说法正确的是(           )"
+        },
+        {
+          "answerId": "58706883,58706884,58706885,",
+          "questionContentType": "文字题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,B,C,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927119,
+              "id": 58706883,
+              "content": "可燃物"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927119,
+              "id": 58706884,
+              "content": "火源"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927119,
+              "id": 58706885,
+              "content": "空气"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927119,
+              "id": 58706886,
+              "content": "水"
+            },
+            {
+              "sequence": 5,
+              "isRight": false,
+              "questionId": 14927119,
+              "id": 58706887,
+              "content": "大风天气"
+            }
+          ],
+          "questionSequence": 3597,
+          "id": 14927119,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "火灾发生一般必须具备（）等几个条件。"
+        },
+        {
+          "answerId": "58706889,58706890,58706891,58706892,",
+          "questionContentType": "文字题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "B,C,D,E,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927120,
+              "id": 58706888,
+              "content": "违章"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927120,
+              "id": 58706889,
+              "content": "松动"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927120,
+              "id": 58706890,
+              "content": "变形"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927120,
+              "id": 58706891,
+              "content": "损坏"
+            },
+            {
+              "sequence": 5,
+              "isRight": true,
+              "questionId": 14927120,
+              "id": 58706892,
+              "content": "脱落"
+            }
+          ],
+          "questionSequence": 3667,
+          "id": 14927120,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "暴风雪及台风、暴雨后，应对高处作业安全设施逐一加以检查，发现有何种现象应立即修理完善?(       )"
+        },
+        {
+          "answerId": "58706893,58706894,58706895,",
+          "questionContentType": "文字题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,B,C,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927121,
+              "id": 58706893,
+              "content": "属国家明令淘汰或者禁止使用的"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927121,
+              "id": 58706894,
+              "content": "超过安全技术标准或者制造厂家规定的使用年限的"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927121,
+              "id": 58706895,
+              "content": "经检验达不到安全技术标准规定的"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927121,
+              "id": 58706896,
+              "content": "没有完整安全技术档案的"
+            },
+            {
+              "sequence": 5,
+              "isRight": false,
+              "questionId": 14927121,
+              "id": 58706897,
+              "content": "没有齐全有效的安全保护装置的"
+            }
+          ],
+          "questionSequence": 3306,
+          "id": 14927121,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "建筑起重机械有下列（ ）情形之一的，出租单位或者自购建筑起重机械的使用单位应当予以报废，并向原备案机关办理注销手续。"
+        },
+        {
+          "answerId": "58706898,58706899,58706900,58706901,",
+          "questionContentType": "文字题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,B,C,D,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927122,
+              "id": 58706898,
+              "content": "保证安全操作距离"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927122,
+              "id": 58706899,
+              "content": "搭设安全防护设施"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927122,
+              "id": 58706900,
+              "content": "迁移外电线路"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927122,
+              "id": 58706901,
+              "content": "停用电线路"
+            },
+            {
+              "sequence": 5,
+              "isRight": false,
+              "questionId": 14927122,
+              "id": 58706902,
+              "content": "施工人员主观防范"
+            }
+          ],
+          "questionSequence": 3307,
+          "id": 14927122,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "对外电线路防护的基本措施是（   ）。"
+        }
+      ],
+      "paperId": 223817,
+      "paperAreaName": "第二部分、文字多选题"
+    },
+    {
+      "paperAreaSequence": 3,
+      "id": 731866,
+      "questionList": [
+        {
+          "answerId": "58706904",
+          "questionContentType": "图片题",
+          "score": 1,
+          "isRight": false,
+          "answerName": "A",
+          "questionAnswers": [
+            {
+              "sequence": 114797,
+              "isRight": true,
+              "questionId": 14927123,
+              "id": 58706903,
+              "content": "1年"
+            },
+            {
+              "sequence": 114798,
+              "isRight": false,
+              "questionId": 14927123,
+              "id": 58706904,
+              "content": "2年"
+            },
+            {
+              "sequence": 114799,
+              "isRight": false,
+              "questionId": 14927123,
+              "id": 58706905,
+              "content": "3年"
+            },
+            {
+              "sequence": 114800,
+              "isRight": false,
+              "questionId": 14927123,
+              "id": 58706906,
+              "content": "5年"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1090\\题干附件\\20181113\\114733.png",
+          "questionSequence": 226,
+          "id": 14927123,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "对施工电梯的防坠器，使用多久后必须重新检测？（ ）"
+        },
+        {
+          "answerId": "58706909",
+          "questionContentType": "图片题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "C",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927124,
+              "id": 58706907,
+              "content": "悬挑脚手架立面安全网挂设不到位"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927124,
+              "id": 58706908,
+              "content": "悬挑脚手架未设置斜拉钢丝绳"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927124,
+              "id": 58706909,
+              "content": "悬挑脚手架架体与结构之间间距过大部位无水平防护"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927124,
+              "id": 58706910,
+              "content": "悬挑脚手架架体垃圾未清理"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1090\\题干附件\\20170929\\1633156efc47e870dd419093b5be6a54b8e2b7.png",
+          "questionSequence": 20,
+          "id": 14927124,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "指出下图中存在的安全隐患（）。"
+        },
+        {
+          "answerId": "58706913",
+          "questionContentType": "图片题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "C",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927125,
+              "id": 58706911,
+              "content": "吊篮栏杆上"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927125,
+              "id": 58706912,
+              "content": "吊篮升降钢索上"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927125,
+              "id": 58706913,
+              "content": "保险绳上"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927125,
+              "id": 58706914,
+              "content": "不需要使用安全带"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1090\\题干附件\\20170929\\164015bbd9672e034c43289dfb55a432b686d9.jpg",
+          "questionSequence": 24,
+          "id": 14927125,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "电动吊篮作业人员的安全带必须系挂在（）。"
+        },
+        {
+          "answerId": "58706915",
+          "questionContentType": "图片题",
+          "score": 1,
+          "isRight": false,
+          "answerName": "D",
+          "questionAnswers": [
+            {
+              "sequence": 0,
+              "isRight": false,
+              "questionId": 14927126,
+              "id": 58706915,
+              "content": "施工现场围墙开裂不坚固、不稳定"
+            },
+            {
+              "sequence": 0,
+              "isRight": false,
+              "questionId": 14927126,
+              "id": 58706916,
+              "content": "围墙不整洁、不美观"
+            },
+            {
+              "sequence": 0,
+              "isRight": false,
+              "questionId": 14927126,
+              "id": 58706917,
+              "content": "围墙沿工地四周连续封闭设置"
+            },
+            {
+              "sequence": 0,
+              "isRight": true,
+              "questionId": 14927126,
+              "id": 58706918,
+              "content": "墙顶压帽完好，墙面清洁开净整洁"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1090\\题干附件\\20181113\\102351.png",
+          "questionSequence": 146,
+          "id": 14927126,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "关于下组图存在的问题描述错误的是（   ）"
+        },
+        {
+          "answerId": "58706922",
+          "questionContentType": "图片题",
+          "score": 1,
+          "isRight": false,
+          "answerName": "B",
+          "questionAnswers": [
+            {
+              "sequence": 0,
+              "isRight": false,
+              "questionId": 14927127,
+              "id": 58706919,
+              "content": "施工现场材料堆放零乱"
+            },
+            {
+              "sequence": 0,
+              "isRight": true,
+              "questionId": 14927127,
+              "id": 58706920,
+              "content": "电锯使用自制非标设备"
+            },
+            {
+              "sequence": 0,
+              "isRight": false,
+              "questionId": 14927127,
+              "id": 58706921,
+              "content": "钢管未刷防锈漆"
+            },
+            {
+              "sequence": 0,
+              "isRight": false,
+              "questionId": 14927127,
+              "id": 58706922,
+              "content": "模板堆放超高"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1090\\题干附件\\20181113\\094122.png",
+          "questionSequence": 120,
+          "id": 14927127,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "下图中存在的主要安全隐患是什么？（ ）"
+        },
+        {
+          "answerId": "58706925",
+          "questionContentType": "图片题",
+          "score": 1,
+          "isRight": false,
+          "answerName": "D",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927128,
+              "id": 58706923,
+              "content": "降水管设置不规范"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927128,
+              "id": 58706924,
+              "content": "降水管电缆设置不规范"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927128,
+              "id": 58706925,
+              "content": "基坑边材料堆放不规范"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927128,
+              "id": 58706926,
+              "content": "围墙距基坑距离过近"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1090\\题干附件\\20170929\\165659337fc9414e444814955eb6c0c8782600.jpg",
+          "questionSequence": 38,
+          "id": 14927128,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "关于下图主要隐患描述错误的是（）。"
+        },
+        {
+          "answerId": "58706929",
+          "questionContentType": "图片题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "C",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927129,
+              "id": 58706927,
+              "content": "悬挑卸料平台未设置荷载限制牌"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927129,
+              "id": 58706928,
+              "content": "悬挑式卸料平台斜拉钢丝绳设置不规范"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927129,
+              "id": 58706929,
+              "content": "现场钢管扣件未分开吊运，存在材料混吊现象"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927129,
+              "id": 58706930,
+              "content": "悬挑式卸料平台临边防护缺失"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1090\\题干附件\\20170929\\163638bc68e33385014313b355d45dd8fa7752.png",
+          "questionSequence": 23,
+          "id": 14927129,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "指出图中施工作业存在的安全隐患（）。"
+        },
+        {
+          "answerId": "58706933",
+          "questionContentType": "图片题",
+          "score": 1,
+          "isRight": false,
+          "answerName": "A",
+          "questionAnswers": [
+            {
+              "sequence": 0,
+              "isRight": true,
+              "questionId": 14927130,
+              "id": 58706931,
+              "content": "硬化处理"
+            },
+            {
+              "sequence": 0,
+              "isRight": false,
+              "questionId": 14927130,
+              "id": 58706932,
+              "content": "碎石垫铺"
+            },
+            {
+              "sequence": 0,
+              "isRight": false,
+              "questionId": 14927130,
+              "id": 58706933,
+              "content": "碾压压实"
+            },
+            {
+              "sequence": 0,
+              "isRight": false,
+              "questionId": 14927130,
+              "id": 58706934,
+              "content": "平整压实"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1090\\题干附件\\20181113\\103348.png",
+          "questionSequence": 153,
+          "id": 14927130,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "建筑施工安全检查标准JGJ59-2011文明施工检查评分表保证项目要求，施工现场主要道路及材料加工区地面应进行（ ）。"
+        },
+        {
+          "answerId": "58706938",
+          "questionContentType": "图片题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "D",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927131,
+              "id": 58706935,
+              "content": "COD"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927131,
+              "id": 58706936,
+              "content": "挥发酚"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927131,
+              "id": 58706937,
+              "content": "六价铬"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927131,
+              "id": 58706938,
+              "content": "pH"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1090\\题干附件\\20170929\\164652806d7722ce1e47168ae83c8b265fb38a.jpg",
+          "questionSequence": 29,
+          "id": 14927131,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "如下图所示，施工现场水质监测项目应现场测定的是（ ）。"
+        },
+        {
+          "answerId": "58706940",
+          "questionContentType": "图片题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "B",
+          "questionAnswers": [
+            {
+              "sequence": 114657,
+              "isRight": false,
+              "questionId": 14927132,
+              "id": 58706939,
+              "content": "现场材料堆放凌乱"
+            },
+            {
+              "sequence": 114658,
+              "isRight": true,
+              "questionId": 14927132,
+              "id": 58706940,
+              "content": "现场易燃材料堆放区域未按要求配备灭火器，存在火灾风险"
+            },
+            {
+              "sequence": 114659,
+              "isRight": false,
+              "questionId": 14927132,
+              "id": 58706941,
+              "content": "材料未进行分类堆放"
+            },
+            {
+              "sequence": 114660,
+              "isRight": false,
+              "questionId": 14927132,
+              "id": 58706942,
+              "content": "围墙高度不足1.8米"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1090\\题干附件\\20181113\\113322.png",
+          "questionSequence": 192,
+          "id": 14927132,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "下图中存在的主要危险源是（  ）。"
+        },
+        {
+          "answerId": "58706945",
+          "questionContentType": "图片题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "C",
+          "questionAnswers": [
+            {
+              "sequence": 114601,
+              "isRight": false,
+              "questionId": 14927133,
+              "id": 58706943,
+              "content": "在潮湿的地点施焊作业，应站在绝缘胶板或木板上"
+            },
+            {
+              "sequence": 114602,
+              "isRight": false,
+              "questionId": 14927133,
+              "id": 58706944,
+              "content": "施工现场未设置安全警示标语"
+            },
+            {
+              "sequence": 114603,
+              "isRight": true,
+              "questionId": 14927133,
+              "id": 58706945,
+              "content": "高处临边安全防护部分缺失"
+            },
+            {
+              "sequence": 114604,
+              "isRight": false,
+              "questionId": 14927133,
+              "id": 58706946,
+              "content": "未设置消防器材"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1110\\题干附件\\20181029\\162616.jpg",
+          "questionSequence": 446,
+          "id": 14927133,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "关于下图中隐患描述正确的是（  ）。"
+        },
+        {
+          "answerId": "58706950",
+          "questionContentType": "图片题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "D",
+          "questionAnswers": [
+            {
+              "sequence": 113922,
+              "isRight": false,
+              "questionId": 14927134,
+              "id": 58706947,
+              "content": "施工现场围墙开裂不坚固、不稳定"
+            },
+            {
+              "sequence": 113923,
+              "isRight": false,
+              "questionId": 14927134,
+              "id": 58706948,
+              "content": "围墙不整洁、不美观"
+            },
+            {
+              "sequence": 113924,
+              "isRight": false,
+              "questionId": 14927134,
+              "id": 58706949,
+              "content": "围墙沿工地四周连续封闭设置"
+            },
+            {
+              "sequence": 113925,
+              "isRight": true,
+              "questionId": 14927134,
+              "id": 58706950,
+              "content": "墙顶压帽完好，墙面清洁开净整洁"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1110\\题干附件\\20181026\\172732.jpg",
+          "questionSequence": 349,
+          "id": 14927134,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "关于下组图存在的问题描述错误的是（   ）"
+        },
+        {
+          "answerId": "58706953",
+          "questionContentType": "图片题",
+          "score": 1,
+          "isRight": false,
+          "answerName": "A",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927135,
+              "id": 58706951,
+              "content": "TN-S"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927135,
+              "id": 58706952,
+              "content": "TN"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927135,
+              "id": 58706953,
+              "content": "TN-C"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927135,
+              "id": 58706954,
+              "content": "TC"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1087\\题干附件\\20170907\\153539b8d6426478a749fa8e477013962eedd6.png",
+          "questionSequence": 39,
+          "id": 14927135,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "某工地发生一起设备外壳带电，工友触电身亡事故，究其原因是施工现场用电不符合规范要求；那么，下图中，是专用变压器供电时（ ）接零保护系统示意图。"
+        },
+        {
+          "answerId": "58706958",
+          "questionContentType": "图片题",
+          "score": 1,
+          "isRight": false,
+          "answerName": "A",
+          "questionAnswers": [
+            {
+              "sequence": 113958,
+              "isRight": true,
+              "questionId": 14927136,
+              "id": 58706955,
+              "content": "厕所、垃圾站、有毒有害"
+            },
+            {
+              "sequence": 113959,
+              "isRight": false,
+              "questionId": 14927136,
+              "id": 58706956,
+              "content": "厕所、配电室、有毒有害"
+            },
+            {
+              "sequence": 113960,
+              "isRight": false,
+              "questionId": 14927136,
+              "id": 58706957,
+              "content": "有毒有害、厕所、保管室"
+            },
+            {
+              "sequence": 113961,
+              "isRight": false,
+              "questionId": 14927136,
+              "id": 58706958,
+              "content": "有毒有害、垃圾站、配电室"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1110\\题干附件\\20181029\\084801.jpg",
+          "questionSequence": 358,
+          "id": 14927136,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "建筑施工安全检查标准JGJ59-2011文明施工检查评分表要求，食堂要远离与（ ）场所。"
+        },
+        {
+          "answerId": "58706961",
+          "questionContentType": "图片题",
+          "score": 1,
+          "isRight": false,
+          "answerName": "A",
+          "questionAnswers": [
+            {
+              "sequence": 113601,
+              "isRight": true,
+              "questionId": 14927137,
+              "id": 58706959,
+              "content": "极限开关"
+            },
+            {
+              "sequence": 113602,
+              "isRight": false,
+              "questionId": 14927137,
+              "id": 58706960,
+              "content": "下行程开关"
+            },
+            {
+              "sequence": 113603,
+              "isRight": false,
+              "questionId": 14927137,
+              "id": 58706961,
+              "content": "上行程开关"
+            },
+            {
+              "sequence": 113604,
+              "isRight": false,
+              "questionId": 14927137,
+              "id": 58706962,
+              "content": "急停开关"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1110\\题干附件\\20181026\\145959.png",
+          "questionSequence": 255,
+          "id": 14927137,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "下图为（     ），在触碰挡块时档杆动作，吊笼断电从而停止运行。"
+        },
+        {
+          "answerId": "58706963",
+          "questionContentType": "图片题",
+          "score": 1,
+          "isRight": false,
+          "answerName": "B",
+          "questionAnswers": [
+            {
+              "sequence": 113755,
+              "isRight": false,
+              "questionId": 14927138,
+              "id": 58706963,
+              "content": "塔式起重机基础节使用斜撑杆"
+            },
+            {
+              "sequence": 113756,
+              "isRight": true,
+              "questionId": 14927138,
+              "id": 58706964,
+              "content": "塔式起重机电缆未按规范固定"
+            },
+            {
+              "sequence": 113757,
+              "isRight": false,
+              "questionId": 14927138,
+              "id": 58706965,
+              "content": "塔式起重机未取得使用登记牌"
+            },
+            {
+              "sequence": 113758,
+              "isRight": false,
+              "questionId": 14927138,
+              "id": 58706966,
+              "content": "塔式起重机未进行检测检验"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1110\\题干附件\\20181026\\153640.jpg",
+          "questionSequence": 295,
+          "id": 14927138,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "图中存在的违规情况是（  ）。"
+        },
+        {
+          "answerId": "58706968",
+          "questionContentType": "图片题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "B",
+          "questionAnswers": [
+            {
+              "sequence": 113549,
+              "isRight": false,
+              "questionId": 14927139,
+              "id": 58706967,
+              "content": "限位保护"
+            },
+            {
+              "sequence": 113550,
+              "isRight": true,
+              "questionId": 14927139,
+              "id": 58706968,
+              "content": "零位保护"
+            },
+            {
+              "sequence": 113551,
+              "isRight": false,
+              "questionId": 14927139,
+              "id": 58706969,
+              "content": "断绳保护"
+            },
+            {
+              "sequence": 113552,
+              "isRight": false,
+              "questionId": 14927139,
+              "id": 58706970,
+              "content": "断轴保护"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1110\\题干附件\\20181026\\145219.jpg",
+          "questionSequence": 242,
+          "id": 14927139,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "在塔机检查时发现右边操作台控制器功能异常（如图所示），该保护功能的作用是塔机在运行中，若因故障或失压停止运行后，重新恢复供电时，机构不得自行动作，应人为将控制器置回零位后，机构才能重新启动。该保护功能是（  ）。"
+        },
+        {
+          "answerId": "58706974",
+          "questionContentType": "图片题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "D",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927140,
+              "id": 58706971,
+              "content": "剪刀撑钢管未刷红白相间油漆"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927140,
+              "id": 58706972,
+              "content": "剪刀撑角度搭设错误"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927140,
+              "id": 58706973,
+              "content": "剪刀撑钢管长度不够"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927140,
+              "id": 58706974,
+              "content": "剪刀撑没有和相连的杆件用旋转扣件连接"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1087\\题干附件\\20170907\\20435365a289ec7c754d71b339e1a0366d6df6.jpg",
+          "questionSequence": 194,
+          "id": 14927140,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "下图中脚手架剪刀撑设置主要存在什么问题？（）"
+        },
+        {
+          "answerId": "58706976",
+          "questionContentType": "图片题",
+          "score": 1,
+          "isRight": true,
+          "answerName": "B",
+          "questionAnswers": [
+            {
+              "sequence": 113799,
+              "isRight": false,
+              "questionId": 14927141,
+              "id": 58706975,
+              "content": "导向轮安装错误"
+            },
+            {
+              "sequence": 113800,
+              "isRight": true,
+              "questionId": 14927141,
+              "id": 58706976,
+              "content": "螺栓安装方向不符合规范"
+            },
+            {
+              "sequence": 113801,
+              "isRight": false,
+              "questionId": 14927141,
+              "id": 58706977,
+              "content": "导向轮缺乏保养"
+            },
+            {
+              "sequence": 113802,
+              "isRight": false,
+              "questionId": 14927141,
+              "id": 58706978,
+              "content": "导向轮支座安装错误"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1110\\题干附件\\20181026\\164712.jpg",
+          "questionSequence": 310,
+          "id": 14927141,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "图中施工升降机存在的违规情况是（ ）。"
+        },
+        {
+          "answerId": "58706980",
+          "questionContentType": "图片题",
+          "score": 1,
+          "isRight": false,
+          "answerName": "C",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927142,
+              "id": 58706979,
+              "content": "高支模架体水平拉杆设置不到位"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927142,
+              "id": 58706980,
+              "content": "作业人员未系挂安全带"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927142,
+              "id": 58706981,
+              "content": "高支模架体内未按要求挂设安全平网防护"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927142,
+              "id": 58706982,
+              "content": "高支架架体立杆间距过大"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1087\\题干附件\\20170907\\1418379a6d9d6e729940e499d9eddc71e31ef9.png",
+          "questionSequence": 13,
+          "id": 14927142,
+          "questionDifficulty": "简单题",
+          "questionType": "单选题",
+          "content": "对于下图中安全隐患描述正确的是（）。"
+        }
+      ],
+      "paperId": 223817,
+      "paperAreaName": "第三部分、图片单选题"
+    },
+    {
+      "paperAreaSequence": 4,
+      "id": 731867,
+      "questionList": [
+        {
+          "answerId": "58706985,58706986,",
+          "questionContentType": "图片题",
+          "score": 2,
+          "isRight": false,
+          "answerName": "B,C,D,",
+          "questionAnswers": [
+            {
+              "sequence": 0,
+              "isRight": false,
+              "questionId": 14927143,
+              "id": 58706983,
+              "content": "木工操作无专人监控"
+            },
+            {
+              "sequence": 0,
+              "isRight": true,
+              "questionId": 14927143,
+              "id": 58706984,
+              "content": "作业人员未戴好安全帽"
+            },
+            {
+              "sequence": 0,
+              "isRight": true,
+              "questionId": 14927143,
+              "id": 58706985,
+              "content": "圆盘锯无安全防护装置"
+            },
+            {
+              "sequence": 0,
+              "isRight": true,
+              "questionId": 14927143,
+              "id": 58706986,
+              "content": "圆盘锯电源线拖地"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1090\\题干附件\\20181113\\101512.png",
+          "questionSequence": 139,
+          "id": 14927143,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "下图中存在的主要安全隐患有？( )"
+        },
+        {
+          "answerId": "58706987,58706988,58706989,58706990,58706991,",
+          "questionContentType": "图片题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,B,C,D,E,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927144,
+              "id": 58706987,
+              "content": "作业人员未戴安全帽"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927144,
+              "id": 58706988,
+              "content": "气瓶卧放使用"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927144,
+              "id": 58706989,
+              "content": "违规使用液化气瓶"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927144,
+              "id": 58706990,
+              "content": "未戴护目镜"
+            },
+            {
+              "sequence": 5,
+              "isRight": true,
+              "questionId": 14927144,
+              "id": 58706991,
+              "content": "氧气瓶和液化气瓶安全间距不符合要求"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1090\\题干附件\\20170929\\172959f5a6af008e3d4c7abd37b26b72f544ae.jpg",
+          "questionSequence": 65,
+          "id": 14927144,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "图中存在不规范的现象有（ ）。"
+        },
+        {
+          "answerId": "58706992,58706993,",
+          "questionContentType": "图片题",
+          "score": 2,
+          "isRight": false,
+          "answerName": "A,B,C,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927145,
+              "id": 58706992,
+              "content": "该工程深基坑边出现裂缝，特别在塔吊处，属重大事故隐患，必须停工整改"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927145,
+              "id": 58706993,
+              "content": "该工程塔吊基础处出现坍塌，塔吊必须停止使用"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927145,
+              "id": 58706994,
+              "content": "该工程未编制深基坑安全专项施工方案，必须立即停止施工"
+            },
+            {
+              "sequence": 4,
+              "isRight": false,
+              "questionId": 14927145,
+              "id": 58706995,
+              "content": "该基坑内施工的工人只能在没有坍塌的基坑一侧进行施工，不得在坍塌的基坑一侧进行施工"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1090\\题干附件\\20170930\\1028132841a5618e504812914038478cc534e7.jpg",
+          "questionSequence": 81,
+          "id": 14927145,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "如图所示某地下室的施工现场，下文描述正确的是？（ ）"
+        },
+        {
+          "answerId": "58706996,58706997,58706998,58706999,",
+          "questionContentType": "图片题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,B,C,D,",
+          "questionAnswers": [
+            {
+              "sequence": 114805,
+              "isRight": true,
+              "questionId": 14927146,
+              "id": 58706996,
+              "content": "支模架搭设方案流于形式，没有经过专家论证"
+            },
+            {
+              "sequence": 114806,
+              "isRight": true,
+              "questionId": 14927146,
+              "id": 58706997,
+              "content": "实际施工时偷工减料，没有严格依照专家论证后的方案实施，水平杆搭设不到位，立杆间距过大"
+            },
+            {
+              "sequence": 114807,
+              "isRight": true,
+              "questionId": 14927146,
+              "id": 58706998,
+              "content": "钢管材质不符合规范要求，管壁过薄且有锈蚀"
+            },
+            {
+              "sequence": 114808,
+              "isRight": true,
+              "questionId": 14927146,
+              "id": 58706999,
+              "content": "对工人没有进行安全教育和安全技术交底，搭设完成后没有对架体组织验收就浇筑混凝土"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1090\\题干附件\\20181113\\114830.png",
+          "questionSequence": 228,
+          "id": 14927146,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "近期，多个工地发生高支模垮塌事故，请问导致高支模垮塌的可能原因有哪些？（  ）"
+        },
+        {
+          "answerId": "58707000,58707001,58707002,58707003,58707004,",
+          "questionContentType": "图片题",
+          "score": 2,
+          "isRight": false,
+          "answerName": "A,C,",
+          "questionAnswers": [
+            {
+              "sequence": 114661,
+              "isRight": true,
+              "questionId": 14927147,
+              "id": 58707000,
+              "content": "梁底中部支撑立杆上部可调支托螺杆外伸长度超过200mm"
+            },
+            {
+              "sequence": 114662,
+              "isRight": false,
+              "questionId": 14927147,
+              "id": 58707001,
+              "content": "外侧边梁底部立杆小横杆未设置不到位"
+            },
+            {
+              "sequence": 114663,
+              "isRight": true,
+              "questionId": 14927147,
+              "id": 58707002,
+              "content": "梁底中部支撑立杆可调支托上部未设置双钢管，造成立杆偏心受力"
+            },
+            {
+              "sequence": 114664,
+              "isRight": false,
+              "questionId": 14927147,
+              "id": 58707003,
+              "content": "梁底立杆纵向水平拉杆设置不到位"
+            },
+            {
+              "sequence": 114665,
+              "isRight": false,
+              "questionId": 14927147,
+              "id": 58707004,
+              "content": "梁底支撑架体部分连接扣件螺栓未坚固到位"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1090\\题干附件\\20181113\\113409.png",
+          "questionSequence": 193,
+          "id": 14927147,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "请指出下图中关于模板支撑体系描述正确的是（   ）。"
+        },
+        {
+          "answerId": "58707006,58707007,58707008,",
+          "questionContentType": "图片题",
+          "score": 2,
+          "isRight": false,
+          "answerName": "A,B,C,",
+          "questionAnswers": [
+            {
+              "sequence": 0,
+              "isRight": true,
+              "questionId": 14927148,
+              "id": 58707005,
+              "content": "顶托螺杆伸出长度超过200mm"
+            },
+            {
+              "sequence": 0,
+              "isRight": true,
+              "questionId": 14927148,
+              "id": 58707006,
+              "content": "立杆使用非标短管接长"
+            },
+            {
+              "sequence": 0,
+              "isRight": true,
+              "questionId": 14927148,
+              "id": 58707007,
+              "content": "立杆不垂直"
+            },
+            {
+              "sequence": 0,
+              "isRight": false,
+              "questionId": 14927148,
+              "id": 58707008,
+              "content": "立杆使用花杆"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1090\\题干附件\\20181113\\095457.png",
+          "questionSequence": 127,
+          "id": 14927148,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "该图模板支撑架有那些安全隐患？ ( )"
+        },
+        {
+          "answerId": "58707009,58707010,58707011,58707012,58707013,",
+          "questionContentType": "图片题",
+          "score": 2,
+          "isRight": false,
+          "answerName": "A,B,D,E,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927149,
+              "id": 58707009,
+              "content": "在施工现场搭建临时设施"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927149,
+              "id": 58707010,
+              "content": "乱接乱搭电线"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927149,
+              "id": 58707011,
+              "content": "民工私用燃气罐"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927149,
+              "id": 58707012,
+              "content": "使用大功率电器"
+            },
+            {
+              "sequence": 5,
+              "isRight": true,
+              "questionId": 14927149,
+              "id": 58707013,
+              "content": "民工使用雨布、模板搭设临时厨房"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1090\\题干附件\\20170929\\173047257ca8899be54238ab3659d765afbe16.jpg",
+          "questionSequence": 66,
+          "id": 14927149,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "图中存在哪些违规情况？（ ）"
+        },
+        {
+          "answerId": "58707014,58707015,58707016,58707017,",
+          "questionContentType": "图片题",
+          "score": 2,
+          "isRight": false,
+          "answerName": "B,C,D,",
+          "questionAnswers": [
+            {
+              "sequence": 0,
+              "isRight": false,
+              "questionId": 14927150,
+              "id": 58707014,
+              "content": "电梯井内水平防护使用钢管搭设"
+            },
+            {
+              "sequence": 0,
+              "isRight": true,
+              "questionId": 14927150,
+              "id": 58707015,
+              "content": "电梯井口防护使用钢管搭设"
+            },
+            {
+              "sequence": 0,
+              "isRight": true,
+              "questionId": 14927150,
+              "id": 58707016,
+              "content": "电梯井内水平防护不符合规范要求"
+            },
+            {
+              "sequence": 0,
+              "isRight": true,
+              "questionId": 14927150,
+              "id": 58707017,
+              "content": "电梯井口立面防护不符合规范要求"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1090\\题干附件\\20181113\\101623.png",
+          "questionSequence": 140,
+          "id": 14927150,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "下图中电梯井防护存在什么安全隐患？( )"
+        },
+        {
+          "answerId": "58707018,58707019,58707020,58707021,",
+          "questionContentType": "图片题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,B,C,D,",
+          "questionAnswers": [
+            {
+              "sequence": 0,
+              "isRight": true,
+              "questionId": 14927151,
+              "id": 58707018,
+              "content": "扫地杆未设置"
+            },
+            {
+              "sequence": 0,
+              "isRight": true,
+              "questionId": 14927151,
+              "id": 58707019,
+              "content": "外脚手架安全密目网未超过施工层1.5米"
+            },
+            {
+              "sequence": 0,
+              "isRight": true,
+              "questionId": 14927151,
+              "id": 58707020,
+              "content": "大于两米处工人未佩戴安全绳"
+            },
+            {
+              "sequence": 0,
+              "isRight": true,
+              "questionId": 14927151,
+              "id": 58707021,
+              "content": "立杆下未设置垫板"
+            },
+            {
+              "sequence": 0,
+              "isRight": false,
+              "questionId": 14927151,
+              "id": 58707022,
+              "content": "柱模板未施工，施工顺序错误"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1090\\题干附件\\20181113\\095140.png",
+          "questionSequence": 125,
+          "id": 14927151,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "关于下图主要隐患描述正确的是（ ）。"
+        },
+        {
+          "answerId": "58707023,58707024,58707025,58707026,58707027,",
+          "questionContentType": "图片题",
+          "score": 2,
+          "isRight": false,
+          "answerName": "A,B,C,D,",
+          "questionAnswers": [
+            {
+              "sequence": 114666,
+              "isRight": true,
+              "questionId": 14927152,
+              "id": 58707023,
+              "content": "基坑边坡未采取支护措施"
+            },
+            {
+              "sequence": 114667,
+              "isRight": true,
+              "questionId": 14927152,
+              "id": 58707024,
+              "content": "现场围挡与基坑边未保持1米以上安全距离"
+            },
+            {
+              "sequence": 114668,
+              "isRight": true,
+              "questionId": 14927152,
+              "id": 58707025,
+              "content": "基坑底部未设置排水沟及集水井"
+            },
+            {
+              "sequence": 114669,
+              "isRight": true,
+              "questionId": 14927152,
+              "id": 58707026,
+              "content": "基坑边坡土方堆放无安全距离且堆放高度超过1.5米"
+            },
+            {
+              "sequence": 114670,
+              "isRight": false,
+              "questionId": 14927152,
+              "id": 58707027,
+              "content": "作业工人现场未穿反光背心"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1090\\题干附件\\20181113\\113431.png",
+          "questionSequence": 194,
+          "id": 14927152,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "请指出图中存在哪些安全隐患？（  ）。"
+        },
+        {
+          "answerId": "",
+          "questionContentType": "图片题",
+          "score": 2,
+          "isRight": false,
+          "answerName": "A,B,C,D,",
+          "questionAnswers": [
+            {
+              "sequence": 114617,
+              "isRight": true,
+              "questionId": 14927153,
+              "id": 58707028,
+              "content": "基坑附近测量人员未按照规范要求佩戴安全帽"
+            },
+            {
+              "sequence": 114618,
+              "isRight": true,
+              "questionId": 14927153,
+              "id": 58707029,
+              "content": "拉伸钢板桩未按照规范要求添加内部支撑"
+            },
+            {
+              "sequence": 114619,
+              "isRight": true,
+              "questionId": 14927153,
+              "id": 58707030,
+              "content": "下部未采取有效的防水措施（未设置排水沟）"
+            },
+            {
+              "sequence": 114620,
+              "isRight": true,
+              "questionId": 14927153,
+              "id": 58707031,
+              "content": "基坑四周土方较凌乱，未及时处理干净"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1110\\题干附件\\20181029\\163033.jpg",
+          "questionSequence": 461,
+          "id": 14927153,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "下列描述属于下图中明显隐患的是（ ）。"
+        },
+        {
+          "answerId": "58707032,58707033,58707034,58707036,",
+          "questionContentType": "图片题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,B,C,E,",
+          "questionAnswers": [
+            {
+              "sequence": 113909,
+              "isRight": true,
+              "questionId": 14927154,
+              "id": 58707032,
+              "content": "暴雨"
+            },
+            {
+              "sequence": 113910,
+              "isRight": true,
+              "questionId": 14927154,
+              "id": 58707033,
+              "content": "大雾"
+            },
+            {
+              "sequence": 113911,
+              "isRight": true,
+              "questionId": 14927154,
+              "id": 58707034,
+              "content": "暴雪"
+            },
+            {
+              "sequence": 113912,
+              "isRight": false,
+              "questionId": 14927154,
+              "id": 58707035,
+              "content": "5级以上大风"
+            },
+            {
+              "sequence": 113913,
+              "isRight": true,
+              "questionId": 14927154,
+              "id": 58707036,
+              "content": "6级以上（含6级）大风"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1110\\题干附件\\20181026\\172341.jpg",
+          "questionSequence": 337,
+          "id": 14927154,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "图中显示哪几种天气下，塔机应停止作业？（  ）"
+        },
+        {
+          "answerId": "58707037,58707038,58707040,",
+          "questionContentType": "图片题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,B,D,",
+          "questionAnswers": [
+            {
+              "sequence": 113837,
+              "isRight": true,
+              "questionId": 14927155,
+              "id": 58707037,
+              "content": "后浇带处的砼未产生裂纹，可不予处置，但现有支撑杆件不能拆除"
+            },
+            {
+              "sequence": 113838,
+              "isRight": true,
+              "questionId": 14927155,
+              "id": 58707038,
+              "content": "后浇带处先浇筑的砼的模板支撑可以先拆，但浇筑后浇带处砼前，模板要支好"
+            },
+            {
+              "sequence": 113839,
+              "isRight": false,
+              "questionId": 14927155,
+              "id": 58707039,
+              "content": "该后浇带处的支撑体系存在安全隐患，必须按规定补齐后浇带处模板支撑的各类杆件"
+            },
+            {
+              "sequence": 113840,
+              "isRight": true,
+              "questionId": 14927155,
+              "id": 58707040,
+              "content": "因为有先浇筑的砼，地下室后浇带处的模架支撑体系的要求可以降低"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1110\\题干附件\\20181026\\170649.jpg",
+          "questionSequence": 320,
+          "id": 14927155,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "如图所示为地下室后浇带的支撑，下文描述错误的是？（  ）"
+        },
+        {
+          "answerId": "58707041,58707042,58707043,58707044,58707045,",
+          "questionContentType": "图片题",
+          "score": 2,
+          "isRight": false,
+          "answerName": "A,B,D,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927156,
+              "id": 58707041,
+              "content": "立杆接头不规范"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927156,
+              "id": 58707042,
+              "content": "外架未设置剪刀撑"
+            },
+            {
+              "sequence": 3,
+              "isRight": false,
+              "questionId": 14927156,
+              "id": 58707043,
+              "content": "防护网设置不规范"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927156,
+              "id": 58707044,
+              "content": "外脚手架与模板支撑架混用"
+            },
+            {
+              "sequence": 5,
+              "isRight": false,
+              "questionId": 14927156,
+              "id": 58707045,
+              "content": "模板安装不规范"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1087\\题干附件\\20170907\\193013fc9eee99f9d245c88081d4b4fefb17e9.jpg",
+          "questionSequence": 145,
+          "id": 14927156,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "关于下图主要隐患描述正确的是（）。"
+        },
+        {
+          "answerId": "58707047,58707048,58707049,",
+          "questionContentType": "图片题",
+          "score": 2,
+          "isRight": false,
+          "answerName": "A,B,C,",
+          "questionAnswers": [
+            {
+              "sequence": 113885,
+              "isRight": true,
+              "questionId": 14927157,
+              "id": 58707046,
+              "content": "悬挑式钢平台主梁固定方式错误"
+            },
+            {
+              "sequence": 113886,
+              "isRight": true,
+              "questionId": 14927157,
+              "id": 58707047,
+              "content": "悬挑式钢平台和外脚手架交界处封闭不严密"
+            },
+            {
+              "sequence": 113887,
+              "isRight": true,
+              "questionId": 14927157,
+              "id": 58707048,
+              "content": "悬挑式钢平台未设置限载标牌"
+            },
+            {
+              "sequence": 113888,
+              "isRight": false,
+              "questionId": 14927157,
+              "id": 58707049,
+              "content": "悬挑式钢平台制作不符合要求"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1110\\题干附件\\20181026\\172106.jpg",
+          "questionSequence": 331,
+          "id": 14927157,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "下图中悬挑式钢平台存在什么安全隐患？(  )"
+        },
+        {
+          "answerId": "58707051,58707052,58707053,",
+          "questionContentType": "图片题",
+          "score": 2,
+          "isRight": false,
+          "answerName": "C,D,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": false,
+              "questionId": 14927158,
+              "id": 58707050,
+              "content": "沟槽开挖未采用机械开挖"
+            },
+            {
+              "sequence": 2,
+              "isRight": false,
+              "questionId": 14927158,
+              "id": 58707051,
+              "content": "工人未系安全带"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927158,
+              "id": 58707052,
+              "content": "安全立网封闭不严密"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927158,
+              "id": 58707053,
+              "content": "施作业人员未佩戴安全帽"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1087\\题干附件\\20170907\\210903bab8aa5eb9c745eb99d392bb795e78cc.jpg",
+          "questionSequence": 214,
+          "id": 14927158,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "下图中施工现场主要存在什么安全隐患？(   )"
+        },
+        {
+          "answerId": "",
+          "questionContentType": "图片题",
+          "score": 2,
+          "isRight": false,
+          "answerName": "A,B,C,D,",
+          "questionAnswers": [
+            {
+              "sequence": 113914,
+              "isRight": true,
+              "questionId": 14927159,
+              "id": 58707054,
+              "content": "物料提升机出料口无安全门"
+            },
+            {
+              "sequence": 113915,
+              "isRight": true,
+              "questionId": 14927159,
+              "id": 58707055,
+              "content": "物料提升机接料口无安全门"
+            },
+            {
+              "sequence": 113916,
+              "isRight": true,
+              "questionId": 14927159,
+              "id": 58707056,
+              "content": "物料提升机未安装层门联锁装置"
+            },
+            {
+              "sequence": 113917,
+              "isRight": true,
+              "questionId": 14927159,
+              "id": 58707057,
+              "content": "物料提升机吊笼不符合规范要求"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1110\\题干附件\\20181026\\172409.jpg",
+          "questionSequence": 338,
+          "id": 14927159,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "图中存在的违规情况有（ ）。"
+        },
+        {
+          "answerId": "58707058,58707060,58707061,",
+          "questionContentType": "图片题",
+          "score": 2,
+          "isRight": false,
+          "answerName": "A,B,E,",
+          "questionAnswers": [
+            {
+              "sequence": 114196,
+              "isRight": true,
+              "questionId": 14927160,
+              "id": 58707058,
+              "content": "模板废料"
+            },
+            {
+              "sequence": 114197,
+              "isRight": true,
+              "questionId": 14927160,
+              "id": 58707059,
+              "content": "混凝土废料"
+            },
+            {
+              "sequence": 114198,
+              "isRight": false,
+              "questionId": 14927160,
+              "id": 58707060,
+              "content": "抗振幅钢筋"
+            },
+            {
+              "sequence": 114199,
+              "isRight": false,
+              "questionId": 14927160,
+              "id": 58707061,
+              "content": "钢管"
+            },
+            {
+              "sequence": 114200,
+              "isRight": true,
+              "questionId": 14927160,
+              "id": 58707062,
+              "content": "保温板、安全绿网"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1110\\题干附件\\20181029\\105702.jpg",
+          "questionSequence": 413,
+          "id": 14927160,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "如下图所示，哪些属于可循环利用资源？（   ）"
+        },
+        {
+          "answerId": "58707063,58707064,58707065,58707066,58707067,",
+          "questionContentType": "图片题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,B,C,D,E,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927161,
+              "id": 58707063,
+              "content": "电焊机保护零线应单独设置，并应安装漏电保护装置"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927161,
+              "id": 58707064,
+              "content": "电焊机应设置二次空载降压保护装置"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927161,
+              "id": 58707065,
+              "content": "电焊机一次线长度不得超过5m，并应穿管保护"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927161,
+              "id": 58707066,
+              "content": "二次线应采用防水橡皮护套铜芯软电缆"
+            },
+            {
+              "sequence": 5,
+              "isRight": true,
+              "questionId": 14927161,
+              "id": 58707067,
+              "content": "电焊机应设置防雨罩，接线柱应设置防护罩"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1087\\题干附件\\20170907\\2146583969529552ac4a0f8ef68981f0458bf6.jpg",
+          "questionSequence": 233,
+          "id": 14927161,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "电焊机在建筑工地大量使用，针对电焊机的安全管理，以下哪些说法是正确的？"
+        },
+        {
+          "answerId": "58707068,58707069,58707070,58707071,",
+          "questionContentType": "图片题",
+          "score": 2,
+          "isRight": true,
+          "answerName": "A,B,C,D,",
+          "questionAnswers": [
+            {
+              "sequence": 1,
+              "isRight": true,
+              "questionId": 14927162,
+              "id": 58707068,
+              "content": "钢丝绳绳卡设置数量不足"
+            },
+            {
+              "sequence": 2,
+              "isRight": true,
+              "questionId": 14927162,
+              "id": 58707069,
+              "content": "钢丝绳绳卡安装方向错误"
+            },
+            {
+              "sequence": 3,
+              "isRight": true,
+              "questionId": 14927162,
+              "id": 58707070,
+              "content": "钢丝绳绳卡间距过小"
+            },
+            {
+              "sequence": 4,
+              "isRight": true,
+              "questionId": 14927162,
+              "id": 58707071,
+              "content": "钢丝绳绳头留置过短"
+            }
+          ],
+          "filePath": "https://yiceyun-questionbank.oss-cn-shanghai.aliyuncs.com/1087\\题干附件\\20170907\\191816608fc9f8b6f74ceca1ff75c4fa1faae0.jpg",
+          "questionSequence": 136,
+          "id": 14927162,
+          "questionDifficulty": "简单题",
+          "questionType": "多选题",
+          "content": "对于下图中哪些隐患描述是正确的？（）"
+        }
+      ],
+      "paperId": 223817,
+      "paperAreaName": "第四部分、图片多选题"
+    }
+  ],
+  "version": "V1"
+}
