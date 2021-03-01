@@ -11,7 +11,7 @@
         :items="items"
       ></v-overflow-btn>
     </v-app-bar>
-    <v-container grid-list-xs style="margin-top:60px">
+    <v-container grid-list-xs style="margin-top:60px;width:768px">
       <div v-for="area in paper.paperAreaList" :key="area.id">
         <v-card class="my-4">
           <!-- 题目分组 -->
